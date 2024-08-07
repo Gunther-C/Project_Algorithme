@@ -4,6 +4,10 @@ from itertools import combinations
 import csv
 import time
 
+"""
+BigO/ O(n*n)
+"""
+
 force_brute = []
 
 try:

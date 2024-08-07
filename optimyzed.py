@@ -29,7 +29,7 @@ class Optimized:
         _ Création de la best liste coût maxi 500
         :param datas: datas
         :return: Best liste
-        BigO : O(1)
+        BigO : O(n log n)
         """
 
         start = time.time()
