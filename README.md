@@ -1,7 +1,5 @@
 
 # Project_Algorithme
-### **_Vidéos en streaming_**
-![Capture_JustStreamIt](https://github.com/user-attachments/assets/faf6addc-cf20-4bb2-bc36-925a79d4f2fd)
 ###
 ##
 ## Installation Python 3.12.2
